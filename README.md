@@ -1,4 +1,4 @@
-### Bem-vindo! Muito prazer, eu sou o Ivan. ✌
+### Bem-vindo! Muito prazer, eu sou o Ivan.
 
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-lima-dev/) [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ivanlima096/)
@@ -25,14 +25,3 @@
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div>
 
-## Misc
-Nas horas vagas, curto:
-- 📚 Ler
-- 🎮 Jogar     - ivanlima096  <img align="center" alt="playstation" src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" />
-- 🎶 Música    - Ivan Lima  <img align="center" alt="spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
-
-⚡ Curiosidades:
-
-- 👨‍🔬 Formado em Engenharia Química
-- 👷‍♂️ Formado em Engenharia de Produção
-- 🤹‍♂️ Sei fazer malabares (muito ruim hehe)
